@@ -1,6 +1,7 @@
 # Mongoose History Plugin
 
 [![Build Status](https://travis-ci.org/nassor/mongoose-history.svg?branch=master)](https://travis-ci.org/nassor/mongoose-history)
+[![Coverage Status](https://coveralls.io/repos/github/vaucouleur/mongoose-history/badge.svg?branch=master)](https://coveralls.io/github/vaucouleur/mongoose-history?branch=master)
 
 Keeps a history of all changes of a document. 
 
